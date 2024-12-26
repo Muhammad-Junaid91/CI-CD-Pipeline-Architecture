@@ -6,7 +6,7 @@ Trigger: The pipeline is initiated by a code push to the 'dev' branch, activatin
 
 Build and Test: The source code is checked out, dependencies are installed, and the build is executed followed by SonarQube analysis for code quality checks.
 
-Artifact Management: Successful builds generate artifacts that are archived and managed on a Nexus repository hosted on a pfSense server.
+Artifact Management: Successful builds generate artifacts that are archived and managed on a Nexus repository hosted on a on-premises server.
 
 Deployment: Artifacts are deployed to both staging and development servers to ensure thorough testing and functionality verification.
 
