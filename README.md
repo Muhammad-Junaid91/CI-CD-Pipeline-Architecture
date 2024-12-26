@@ -29,5 +29,4 @@ This architecture aims to minimize manual errors, provide faster development cyc
 
 
 ## 🔗 Links
-[![upwork](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.upwork.com/freelancers/~0152879050c8c43f35?viewMode=1)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-junaid-0aa212165/)
