@@ -25,3 +25,9 @@ Deployment: The continuous deployment process deploys the build to multiple serv
 Feedback Loop: Status of the build and deployment is sent back to the team via Google Chat, providing instant feedback on the pipeline's status.
 
 This architecture aims to minimize manual errors, provide faster development cycles, and ensure high-quality software production. Check out the full pipeline flow in the diagram included in this repository.
+
+
+
+## 🔗 Links
+[![upwork](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.upwork.com/freelancers/~0152879050c8c43f35?viewMode=1)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-junaid-0aa212165/)
